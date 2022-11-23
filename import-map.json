@@ -1,0 +1,5 @@
+{
+    "imports": {
+        "axios": "./node_modules/axios/index.js"
+    }
+}
